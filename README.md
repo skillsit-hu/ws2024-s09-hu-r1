@@ -25,7 +25,7 @@ A feladatot kétféle formában kell beadnod:
 
 2.	Kész alkalmazás publikálása
 
-	a. Készíts az alkalmazásodból egy futtatható állományt.
+	a. Készíts az alkalmazásodból két futtatható állományt (api.exe, ui.exe).
 	b. Töltsd fel egy olyan helyre (Google Drive, Dropbox, egyéb) ahonnan mi le tudjuk tölteni.
 	c. Osszd meg velünk emailben (csaba.szirjak@http-foundation.hu) a szükséges URL-t, hogy le tudjuk tölteni és tesztelni az alkalmazásodat.
 
