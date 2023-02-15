@@ -17,7 +17,7 @@ A feladatot kétféle formában kell beadnod:
 
 1.	Forráskód GitHub repo-ban
 
-	A feladatok beadásához a megoldásod forráskódját tartalmazó GitHub repository-t (a továbbiakban repo) kell majd megosztanod velünk. YY az a kétszámjegyű személyes kód, amit e-mailben küldtünk ki számodra. Amennyiben nem használtad még a GitHub szolgáltatást, akkor regisztrálj egy azonosítót a https://github.com címen, majd hozz létre egy privát repo-t ws2024-s09-r1-YY néven, ahol YY a tőlünk e-mailben kapott kétszámjegyű sorszámod. 
+	A feladatok beadásához a megoldásod forráskódját tartalmazó GitHub repository-t (a továbbiakban repo) kell majd megosztanod velünk. YY az a kétszámjegyű személyes kód, amit e-mailben küldtünk ki számodra. Amennyiben nem használtad még a GitHub szolgáltatást, akkor regisztrálj egy azonosítót a https://github.com címen, majd hozz létre egy privát repo-t ws2024-s09-r1-YYY néven, ahol YYY a tőlünk e-mailben kapott három számjegyű sorszámod. 
 
 	Ha nem használtál még git-et egyáltalán, akkor legfőbb ideje, hogy megismerkedj vele. Nem egy ördöglakat, és most nem is lesz még szükséged rá, hogy nagyon elmélyülj benne. Elég, ha alapszinten megérted a működését, és az alapfunkciók használatával az elkészült munkádat feltöltöd a létrehozott repo-ba. 
 
